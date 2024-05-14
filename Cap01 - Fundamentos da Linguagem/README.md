@@ -4,6 +4,21 @@ Um arquivo de código-fonte Java deve ter a extensão `.java` e o nome da classe
 
 Nesse arquivo deve conter todo o código Java necessário, e para que seja executado, o código deve estar dentro do método principal chamado `main()`.
 
+Abaixo, segue o código do exemplo:
+
+```java
+/*
+    Este é um programa Java simples.
+
+    Chame este arquivo de Example.java
+*/
+class Example {
+    // Um programa Java começa com uma chamada a main().
+    public static void main(String args[]) {
+        System.out.println("Java drives the Web.");
+    }
+}
+```
 
 Exemplo:
 1. Insira o programa
